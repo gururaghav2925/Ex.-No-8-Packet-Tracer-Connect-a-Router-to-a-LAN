@@ -117,6 +117,10 @@ ________________________________________<br>
 •	Save: copy running-config startup-config / wr <br>
 ________________________________________<br>
 # Output (Attach Screenshots)
+
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/bdd59d01-ef8d-4001-94fe-bf2e00fc2ab0" />
+
+
 •	show ip interface brief and ip route on R1 (after configuration) <br>
 
 <img width="921" height="729" alt="image" src="https://github.com/user-attachments/assets/a796e155-93bf-4208-9b49-a449221cc79a" />
@@ -126,8 +130,22 @@ ________________________________________<br>
 
 <img width="1891" height="675" alt="image" src="https://github.com/user-attachments/assets/ca79a6b8-1399-40af-bd26-6fae057b83de" />
 
-•	Successful ping PC1 → PC4; R2 → PC2<br>
+•	Successful ping PC1 → PC4<br>
+<img width="684" height="678" alt="image" src="https://github.com/user-attachments/assets/8779a15c-9adf-4818-8270-cdcb3e442f19" />
+
+•	Successful ping R2 → PC2<br>
+
+<img width="687" height="667" alt="image" src="https://github.com/user-attachments/assets/415cd876-53ef-47d7-a2bc-22d3a3689990" />
+
+
 •	Interface up messages after no shutdown on each link <br>
+•No shutdown on R1:
+
+<img width="628" height="121" alt="image" src="https://github.com/user-attachments/assets/54e704a6-9394-4235-9c70-d0ae2f383db4" />
+
+•No shutdown on R2:
+<img width="819" height="110" alt="image" src="https://github.com/user-attachments/assets/387c0fe7-56fa-4d45-a789-01cf5b7bb6c5" />
+
 ________________________________________<br>
 # Result
 R1 and R2 were configured with correct IPv4 addresses and interface descriptions, links were brought up, routing tables showed connected networks, and end-to-end connectivity between PCs across the WAN link was verified using pings. The configurations were saved to NVRAM for persistence.<br>
