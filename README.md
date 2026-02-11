@@ -135,7 +135,8 @@ ________________________________________<br>
 
 •	Successful ping R2 → PC2<br>
 
-<img width="687" height="667" alt="image" src="https://github.com/user-attachments/assets/415cd876-53ef-47d7-a2bc-22d3a3689990" />
+<img width="687" height="669" alt="image" src="https://github.com/user-attachments/assets/cb79cbb1-bff4-4705-a407-8cdfaf4443fb" />
+
 
 
 •	Interface up messages after no shutdown on each link <br>
