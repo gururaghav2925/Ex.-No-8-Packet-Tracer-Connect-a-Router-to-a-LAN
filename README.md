@@ -117,8 +117,15 @@ ________________________________________<br>
 •	Save: copy running-config startup-config / wr <br>
 ________________________________________<br>
 # Output (Attach Screenshots)
-•	show ip interface brief on R1 and R2 (after configuration)<br>
-•	show ip route on R1 and R2<br>
+•	show ip interface brief and ip route on R1 (after configuration) <br>
+
+<img width="921" height="729" alt="image" src="https://github.com/user-attachments/assets/a796e155-93bf-4208-9b49-a449221cc79a" />
+
+
+•	show ip interface brief and ip route on R2 (after configuration)<br>
+
+<img width="1891" height="675" alt="image" src="https://github.com/user-attachments/assets/ca79a6b8-1399-40af-bd26-6fae057b83de" />
+
 •	Successful ping PC1 → PC4; R2 → PC2<br>
 •	Interface up messages after no shutdown on each link <br>
 ________________________________________<br>
