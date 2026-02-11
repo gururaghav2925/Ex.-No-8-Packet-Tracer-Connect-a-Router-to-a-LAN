@@ -15,8 +15,10 @@ ________________________________________<br>
 •	Copper straight-through cables for LAN links; Serial DCE/DTE cable for WAN link <br>
 ________________________________________<br>
 # Network Topology Diagram
-(Insert your Packet Tracer screenshot showing R1—S1—PC1/PC2 and R2—S2—PC3/PC4, plus R1–R2 Serial link S0/0/0.)<br>
-________________________________________<br>
+
+<img width="803" height="476" alt="image" src="https://github.com/user-attachments/assets/8fdfad57-2046-4f51-bf89-e1c2dad84a30" />
+
+
 Addressing Table (from activity)<br>
 Device	Interface	IP Address	Subnet Mask	Default Gateway<br>
 R1	G0/0	192.168.10.1	255.255.255.0	—<br>
