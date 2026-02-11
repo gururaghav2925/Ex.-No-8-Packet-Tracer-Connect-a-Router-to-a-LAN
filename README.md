@@ -20,7 +20,6 @@ ________________________________________<br>
 
 <br>
 
-<img width="639" height="369" alt="image" src="https://github.com/user-attachments/assets/40a3af25-1faa-4afd-870c-926799661dd4" />
 
 
 Device	Interface	IP Address	Subnet Mask	Default Gateway<br>
@@ -35,6 +34,8 @@ PC2	NIC	192.168.11.10	255.255.255.0	192.168.11.1<br>
 PC3	NIC	10.1.1.10	255.255.255.0	10.1.1.1<br>
 PC4	NIC	10.1.2.10	255.255.255.0	10.1.2.1<br>
 Note (per activity): Console password = cisco; Privileged EXEC password = class. <br>
+<img width="639" height="369" alt="image" src="https://github.com/user-attachments/assets/40a3af25-1faa-4afd-870c-926799661dd4" />
+
 ________________________________________<br>
 # Procedure
 # Part 1: Display Router Information (R1 shown; repeat on R2)
